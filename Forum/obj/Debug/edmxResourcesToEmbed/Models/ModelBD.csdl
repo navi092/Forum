@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BDFormAppModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BDFormAppEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Users" EntityType="BDFormAppModel.Users" />
+    <EntitySet Name="ForumContent" EntityType="BDFormAppModel.ForumContent" />
+    <EntitySet Name="ForumName" EntityType="BDFormAppModel.ForumName" />
+    <EntitySet Name="sysdiagrams" EntityType="BDFormAppModel.sysdiagrams" />
+    <AssociationSet Name="FK_ForumContent_ForumName" Association="BDFormAppModel.FK_ForumContent_ForumName">
+      <End Role="ForumName" EntitySet="ForumName" />
+      <End Role="ForumContent" EntitySet="ForumContent" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ForumContent_Users" Association="BDFormAppModel.FK_ForumContent_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="ForumContent" EntitySet="ForumContent" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FIO" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LogIn" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ForumContent" Relationship="BDFormAppModel.FK_ForumContent_Users" FromRole="Users" ToRole="ForumContent" />
+  </EntityType>
+  <EntityType Name="ForumContent">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Message" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="User_Id" Type="Int32" Nullable="false" />
+    <Property Name="Forum_Id" Type="Int32" Nullable="false" />
+    <Property Name="EventTime" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="ForumName" Relationship="BDFormAppModel.FK_ForumContent_ForumName" FromRole="ForumContent" ToRole="ForumName" />
+    <NavigationProperty Name="Users" Relationship="BDFormAppModel.FK_ForumContent_Users" FromRole="ForumContent" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="ForumName">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ForumContent" Relationship="BDFormAppModel.FK_ForumContent_ForumName" FromRole="ForumName" ToRole="ForumContent" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_ForumContent_ForumName">
+    <End Type="BDFormAppModel.ForumName" Role="ForumName" Multiplicity="1" />
+    <End Type="BDFormAppModel.ForumContent" Role="ForumContent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ForumName">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ForumContent">
+        <PropertyRef Name="Forum_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ForumContent_Users">
+    <End Type="BDFormAppModel.Users" Role="Users" Multiplicity="1" />
+    <End Type="BDFormAppModel.ForumContent" Role="ForumContent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ForumContent">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,343 @@
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Forum.dll.config
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Forum.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Forum.pdb
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\csc.exe
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\csc.exe.config
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\csc.rsp
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\csi.exe
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\csi.exe.config
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\csi.rsp
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.AppContext.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Console.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.IO.Compression.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Net.Http.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.ValueTuple.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\vbc.exe
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\vbc.exe.config
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\vbc.rsp
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\VBCSCompiler.exe
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Antlr3.Runtime.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Newtonsoft.Json.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.Helpers.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.Mvc.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.Optimization.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.Razor.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.WebPages.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.WebPages.Razor.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\WebGrease.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.Helpers.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.Mvc.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.Optimization.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.Razor.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.WebPages.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.WebPages.Razor.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Newtonsoft.Json.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Antlr3.Runtime.pdb
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\ru\System.Web.Razor.resources.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\obj\Debug\Forum.csproj.CoreCompileInputs.cache
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\obj\Debug\Forum.csproj.CopyComplete
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\obj\Debug\Forum.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\obj\Debug\Forum.pdb
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\EntityFramework.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\EntityFramework.SqlServer.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\EntityFramework.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\EntityFramework.SqlServer.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\ru\EntityFramework.resources.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\Forum.dll.config
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\Forum.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\Forum.pdb
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\csc.exe
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\csc.exe.config
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\csc.rsp
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\csi.exe
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\csi.exe.config
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\csi.rsp
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.AppContext.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Console.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.IO.Compression.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Net.Http.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.ValueTuple.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\vbc.exe
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\vbc.exe.config
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\vbc.rsp
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\VBCSCompiler.exe
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\Antlr3.Runtime.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\EntityFramework.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\EntityFramework.SqlServer.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\Newtonsoft.Json.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.Helpers.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.Mvc.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.Optimization.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.Razor.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.WebPages.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.WebPages.Razor.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\WebGrease.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\EntityFramework.xml
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\EntityFramework.SqlServer.xml
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.Helpers.xml
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.Mvc.xml
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.Optimization.xml
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.Razor.xml
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.WebPages.xml
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\System.Web.WebPages.Razor.xml
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\Newtonsoft.Json.xml
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\Antlr3.Runtime.pdb
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\ru\EntityFramework.resources.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\ru\System.Web.Razor.resources.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\obj\Debug\Forum.csproj.CoreCompileInputs.cache
+C:\Users\ialim\Desktop\Forum\Forum\Forum\obj\Debug\Forum.csproj.CopyComplete
+C:\Users\ialim\Desktop\Forum\Forum\Forum\obj\Debug\Forum.dll
+C:\Users\ialim\Desktop\Forum\Forum\Forum\obj\Debug\Forum.pdb
+C:\Users\ialim\Desktop\Forum\Forum\Forum\obj\Debug\Forum.csprojAssemblyReference.cache
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\WebMatrix.Data.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\WebMatrix.WebData.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\WebMatrix.Data.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\WebMatrix.WebData.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Net.Http.Formatting.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.Http.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.Http.WebHost.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Net.Http.Formatting.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.Http.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Web.Http.WebHost.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\ru\System.Web.Http.resources.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\obj\Debug\Forum.csprojAssemblyReference.cache
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Buffers.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Memory.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Numerics.Vectors.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Text.Encodings.Web.dll
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Buffers.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Memory.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Numerics.Vectors.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alimpiev_ia\Desktop\My Folder\TestTaskFolder\Forum\Forum\bin\System.Text.Encodings.Web.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Forum.dll.config
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Forum.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Forum.pdb
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\csc.exe
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\csc.exe.config
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\csc.rsp
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\csi.exe
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\csi.exe.config
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\csi.rsp
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.AppContext.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Console.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.IO.Compression.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Net.Http.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.ValueTuple.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\vbc.exe
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\vbc.exe.config
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\vbc.rsp
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\VBCSCompiler.exe
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Antlr3.Runtime.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\EntityFramework.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\EntityFramework.SqlServer.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Newtonsoft.Json.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Buffers.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Memory.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Net.Http.Formatting.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Numerics.Vectors.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Text.Encodings.Web.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.Helpers.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.Http.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.Http.WebHost.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.Mvc.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.Optimization.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.Razor.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.WebPages.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.WebPages.Razor.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\WebGrease.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\WebMatrix.Data.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\WebMatrix.WebData.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\EntityFramework.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\EntityFramework.SqlServer.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Buffers.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Memory.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Net.Http.Formatting.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Numerics.Vectors.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Text.Encodings.Web.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.Http.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.Http.WebHost.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.Helpers.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.Mvc.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.Optimization.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.Razor.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.WebPages.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\System.Web.WebPages.Razor.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Newtonsoft.Json.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Antlr3.Runtime.pdb
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\WebMatrix.Data.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\WebMatrix.WebData.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\ru\EntityFramework.resources.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\ru\System.Web.Http.resources.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\ru\System.Web.Razor.resources.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\obj\Debug\Forum.csprojAssemblyReference.cache
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\obj\Debug\Forum.csproj.CoreCompileInputs.cache
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\obj\Debug\Forum.csproj.CopyComplete
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\obj\Debug\Forum.dll
+C:\Users\alimpiev_ia\Source\Repos\Forum\Forum\obj\Debug\Forum.pdb

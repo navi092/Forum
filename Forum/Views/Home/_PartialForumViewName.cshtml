@@ -1,0 +1,44 @@
+﻿@model List<Forum.Models.ForumName>
+<script type="text/javascript">
+    function submitBtn(id) {
+        $("#form_" + id).submit(); 
+    };
+
+    function Search() {
+       var textSearch =  $("#search").val(); 
+           
+         
+        var item = { text: textSearch};
+            $.ajax({
+                url: "/Home/JsonAddContent",
+                type: "GET",
+                dataType: 'json',
+                data: item,
+                async: false,
+                cache: false,
+                contentType: "application/json; charset=utf-8",
+                beforeSend: function () { },
+                success: function () { }
+            });
+            window.location.href = "/Home/ViewerContentForum/?id=" + id;
+    };
+</script>
+
+
+<input type="text" class="form-control" title="Search field" placeholder="Search forume" id="search" onclick="Search()"/>
+<hr />
+
+@foreach (Forum.Models.ForumName item in Model)
+{
+    <form action="/Home/ViewerTitleForum" id="form_@item.Id" method="get">
+        <div class="list-group">
+            <button class="list-group-item list-group-item-action" onclick="submitBtn(@item.Id)" value="@item.Id" name="id">
+                <div class="d-flex w-100 justify-content-between">
+                    <h3 class="mb-1" style="color:blue">@item.Name)</h3>
+                    <hr />
+                    <small>@item.Description)</small>
+                </div>
+            </button>
+        </div>
+    </form>
+}

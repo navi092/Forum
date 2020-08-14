@@ -1,0 +1,118 @@
+﻿@using Forum.Models.ViewModel
+@using Forum.Controllers.Auntification
+<script type="text/javascript">
+    function FormSubmit(id) {
+        $("#form_" + id).submit(); // Submit the form
+    };
+
+    function Edite(id, id_forumTitle, message) {
+
+        var ssas = prompt('Внесите изменения ', message);
+        if (ssas != null) {
+
+            var item = { id: id, message: ssas };
+            $.ajax({
+                url: "/Home/JsonEditeContent",
+                type: "GET",
+                dataType: 'json',
+                data: item,
+                async: false,
+                cache: false,
+                contentType: "application/json; charset=utf-8",
+                beforeSend: function () { },
+                success: function () { }
+            });
+            window.location.href = "/Home/ViewerContentForum/?id=" + id_forumTitle;
+        }
+    };
+
+    function Delite(id, id_forumTitle) {
+        var item = { id: id };
+        $.ajax({
+            url: "/Home/JsonDeliteContent",
+            type: "GET",
+            dataType: 'json',
+            data: item,
+            async: false,
+            cache: false,
+            contentType: "application/json; charset=utf-8",
+            beforeSend: function () { },
+            success: function () { }
+        });
+        window.location.href = "/Home/ViewerContentForum/?id=" + id_forumTitle;
+    };
+
+    function Add() {
+        var ssas = prompt('Введите коментарий ');
+        var id = $("#hidden_id").val();
+        var item = { id: id, message: ssas };
+        $.ajax({
+            url: "/Home/JsonAddContent",
+            type: "GET",
+            dataType: 'json',
+            data: item,
+            async: false,
+            cache: false,
+            contentType: "application/json; charset=utf-8",
+            beforeSend: function () { },
+            success: function () { }
+        });
+        window.location.href = "/Home/ViewerContentForum/?id=" + id;
+    };
+</script>
+
+
+<input type="text" name="search" class="form-control" title="Search field" placeholder="Search forume" />
+<hr />
+@{
+    if (ViewBag.forumTitle != null)
+    {
+
+        <div class="alert alert-primary" role="alert">
+            <h3>@ViewBag.forumTitle</h3>
+        </div>
+        if (ViewBag.joinList != null)
+        {
+            foreach (ContentListView item in ViewBag.joinList)
+            {
+                <form action="/Home/ViewerTitleForum" id="form_@item.Id" method="get">
+                    <hr>
+                    <div class="alert alert-success" role="alert">
+                        <h4 class="alert-heading">@item.FIO</h4>
+                        <p>@item.Message</p>
+                    </div>
+                    @{
+                        //Если пользователь авторизован
+                        if (Authentification.Status)
+                        {
+                            //если пользователь автор
+                            if (item.User_Id == Authentification._Id)
+                            {
+                                <button type="button" class="btn btn-warning" onclick="Edite(@item.Id, @item.Forum_id, '@item.Message')">Edite</button>
+                                <button type="button" class="btn btn-warning" onclick="Delite(@item.Id, @item.Forum_id)">Delite</button>
+                            }
+                            //если администратор, но не автор
+                            else if (Authentification._role == " Администратор" && Authentification._Id != item.Id && Authentification._role != "Модератор" && Authentification._role != "Пользователь")
+                            {
+                                <button type="button" class="btn btn-warning" onclick="Delite(@item.Id, @item.Forum_id)">Delite</button>
+                            }
+                            //если модератор
+                            else if (Authentification._role == "Модератор" && Authentification._Id != item.Id)
+                            {
+                                <button type="button" class="btn btn-warning" onclick="Edite(@item.Id, @item.Forum_id, '@item.Message')">Edite</button>
+                            }
+                        }
+                    }
+
+                </form>
+                <input type="hidden" value="@item.Forum_id" id="hidden_id" />
+
+            }
+            if (Authentification.Status)
+            {
+
+                <button type="button" class="btn btn-warning" onclick="Add()">Add</button>
+            }
+        }
+    }
+}
