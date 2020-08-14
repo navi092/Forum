@@ -21,8 +21,8 @@ namespace Forum.Controllers
         [HttpGet]
         public ActionResult ViewerNameForum()
         {
-            List<ForumName> forumNames = db.ForumName.Select(n => n).ToList();
-            return View(forumNames);
+            List<ForumName> forum = db.ForumName.Select(n => n).ToList();
+            return View(forum);
         }
 
         [HttpGet]
